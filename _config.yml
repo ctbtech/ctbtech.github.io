@@ -1,12 +1,12 @@
 # Setup
-title:        Project or Site name
-tagline:      A responsive theme for your project on GitHub Pages
+title:        Catchthatbus Blog
+tagline:      Book Bus Ticket Online Malaysia Singapore
 baseurl:      ""
 paginate:     1
 
 # About/contact
 author:
-  name:       Author name
+  name:       Catchthatbus.
   url:        http://yourhomepage.com 
 
 # Gems
